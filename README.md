@@ -1,7 +1,5 @@
 
 
-### Make sure to create a `.env` file with following variables -
-
 ```
 # Deployment used by `npx convex dev`
 CONVEX_DEPLOYMENT=
